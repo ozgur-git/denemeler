@@ -1,2 +1,3 @@
 # denemeler
 beni
+oku
